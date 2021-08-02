@@ -1,1 +1,1 @@
-# This is my first code on Github
+# python mini game 
